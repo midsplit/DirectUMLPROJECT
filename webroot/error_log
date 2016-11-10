@@ -1,0 +1,2 @@
+[25-Oct-2016 19:22:28 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit6f8d196405fd9b6774b4f01944004e02' not found in /home/ysukai/public_html/vendor/autoload.php on line 7
+[25-Oct-2016 19:22:46 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit6f8d196405fd9b6774b4f01944004e02' not found in /home/ysukai/public_html/vendor/autoload.php on line 7
